@@ -1,0 +1,1 @@
+../Py-Visvalingam-Whyatt/polysimplify.py
